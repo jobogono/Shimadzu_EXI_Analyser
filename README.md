@@ -1,6 +1,6 @@
 Author: Joshua Bognar
 
-Script for summarising Shmiadzu Mobile Dart EXI logs.
+Script for summarising Shimadzu Mobile Dart EXI logs.
 
 Tested on MX7, MX8
 
